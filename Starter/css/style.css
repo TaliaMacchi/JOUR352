@@ -1,0 +1,18 @@
+body {
+  background-color:#ffffff;
+}
+h1 {color:#FF52BB;}
+
+h2 {color:#11BBF5;}
+
+h3 {color:#11BBF5;}
+
+p {color:#58D4FC;}
+
+.leadGraph {background-color:#FFD6F7; 
+  color:#58D4FC; font-weight: bold; font-size:2rem; padding: 20px;}
+
+.leadPhoto {margin: 30px 40px 30px 40px;}
+  
+a{color:#11BBF5;}
+a:hover {color:#0A94C4;}
